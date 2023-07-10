@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "gutters-offset",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "A plugin that calculate cm-gutters offset and then set global var.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
