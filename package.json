@@ -1,6 +1,6 @@
 {
 	"name": "gutters-offset",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A plugin that calculate cm-gutters offset and then set global var.",
 	"main": "main.js",
 	"scripts": {

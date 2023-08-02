@@ -1,7 +1,7 @@
 {
 	"id": "gutters-offset",
 	"name": "Gutters Offset",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"minAppVersion": "0.15.0",
 	"description": "A plugin that calculate cm-gutters offset and then set global var.",
 	"author": "Obsidian",
