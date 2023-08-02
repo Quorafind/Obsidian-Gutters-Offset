@@ -16,7 +16,7 @@ export default class GuttersOffsetPlugin extends Plugin {
 		if(view instanceof MarkdownView){
 			const contentEl = view.contentEl;
 			const gutters = contentEl.querySelector(".cm-gutters") as HTMLElement;
-			contentEl.style.setProperty("--gutters-width", `${gutters.offsetWidth - 1}px`);
+			contentEl.style.setProperty("--gutters-width", `${gutters.offsetWidth}px`);
 		}
 	}
 
